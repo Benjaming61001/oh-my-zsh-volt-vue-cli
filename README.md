@@ -14,9 +14,9 @@ This `README` documents a custom Zsh shell function (`volt`) and its correspondi
 * **Duplicate Prevention:** When installing multiple components (e.g., `volt Button Dialog`), tab completion hides components already selected on the command line.
 
 ## 🛠️ Installation
-### 1. Add `volt.zsh` to `{USER}/.oh-my-zsh/custom`
-### 2. Add `zstyle ':completion:*:*:volt:*:*' sort false` to `.zshrc`
-### 3. Reload Shell
+1. Add `volt.zsh` to `{USER}/.oh-my-zsh/custom`
+2. Add `zstyle ':completion:*:*:volt:*:*' sort false` to `.zshrc`
+3. Reload Shell
 
 * Apply the changes by reloading your shell environment:
 ```bash
