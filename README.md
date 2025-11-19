@@ -34,7 +34,7 @@ source ~/.zshrc # Or the path to the file where you saved the code
 
 ## 🛠️ Customization
 - Disables verbose mode
- - Remove `--verbose` from `npx volt-vue add "$@" --outdir app --verbose`
+  - Remove `--verbose` from `npx volt-vue add "$@" --outdir app --verbose`
 
 - Change output directory
- - Change `app` to your desired directory from `npx volt-vue add "$@" --outdir app --verbose`
+  - Change `app` to your desired directory from `npx volt-vue add "$@" --outdir app --verbose`
